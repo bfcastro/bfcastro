@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bfcastro
-- 👀 I’m interested in Python, PHP and JavaScript
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Software Engineering and PHP projects
+- 🌱 I’m a Frontend ProDev
+- 💞️ I’m available to collaborate on Frontend projects
 - 📫 How to reach me email: workwithme206@gmail.com & twitter: @bfcastrooooo
 
 <!---
